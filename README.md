@@ -11,4 +11,6 @@ Firstly, Clone the Face-Recognition-API repo and follow the READ ME then come ba
 3. Run `npm start`
 
 
+Live version can be seen here - https://face-recognition-z6by.onrender.com/
+
 
